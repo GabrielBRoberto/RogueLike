@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 311507ef97b1f8042aa1abc1a7402419, type: 3}
+  m_Name: Player
+  m_EditorClassIdentifier: 
+  maxHealth: 100
+  actualHealth: 0
+  regenHealthRate: 0
+  maxShield: 100
+  actualShield: 100
+  maxRegenShieldRate: 50
+  actualRegenShieldRate: 0
+  maxResistence: 50
+  actualResistence: 0
+  speed: 2
+  maxDamage: 100
+  actualDamage: 10
+  maxLifeSteal: 50
+  actualLifeSteal: 0
+  maxLuck: 20
+  actualLuck: 0
+  sensitivity: 500
+  jumpForce: 5
+  money: 0
